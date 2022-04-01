@@ -35,3 +35,8 @@ ToaDo midPoint(ToaDo a, ToaDo b)
     ToaDo x;
     x.setHoanhDo( (a.getHoanhDo() + b.getHoanhDo()) / 2 );
 }
+
+int main()
+{
+    
+}

@@ -1,16 +1,3 @@
-BÀI 1.
-Xây dựng lớp PhanSo để biểu diễn một phân số gồm hai thành phần:
-- Thành phần dữ liệu: tử số, mẫu số.
-- Thành phần xử lý: xuất-nhập giá trị cho phân số, cộng, trừ, nhân, chia
-hai phân số.
-Sau đó, thiết kế chương trình cho phép:
-- Nhập phân số từ bàn phím
-- Nhập phân số theo phương pháp tự động
-- Xuất phân số
-- Thực hiện các phép toán cộng, trừ, nhân, chia
-Chú ý: Chương trình demo tổ chức thành menu lựa chon các chức năng. Thực
-hiện operator overloading phép + - * /
-
 BÀI 2.
 Xây dựng lớp ToaDo để biểu diễn một điểm trong mặt phẳng:
 - Thành phần dữ liệu: hoành độ và tung độ
