@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "iostream": "cpp",
+        "xstring": "cpp",
+        "string": "cpp",
+        "random": "cpp",
+        "ostream": "cpp",
+        "algorithm": "cpp"
+    }
+}
