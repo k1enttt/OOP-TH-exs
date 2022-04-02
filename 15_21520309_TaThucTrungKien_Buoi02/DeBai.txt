@@ -4,7 +4,8 @@ Xây dựng lớp ToaDo để biểu diễn một điểm trong mặt phẳng:
 - Thành phần xử lý: nhập, xuất, thay đổi tọa độ điểm, lấy tung độ, lấy
 hoành độ, thay đổi tung độ, hoành độ, tịnh tiến…
 Viết chương trình minh họa:
-1. Nhập tọa độ một điểm2. Xuất tọa độ một điểm
+1. Nhập tọa độ một điểm
+2. Xuất tọa độ một điểm
 3. Lấy tọa độ một điểm
 4. Thay đổi tọa độ điểm
 5. Di chuyển đến tọa độ

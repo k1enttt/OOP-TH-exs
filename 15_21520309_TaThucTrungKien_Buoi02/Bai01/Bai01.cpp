@@ -165,7 +165,7 @@ int main()
             cout << endl;
             cout << "Phân số 2: ";
             y.xuatPS();
-            cout << endl << endl;
+            cout << endl;
             break;
         case 3:
             if (imported != 1)
@@ -192,7 +192,7 @@ int main()
                 y.xuatPS();
                 cout << " = ";
                 x.congPS(y).xuatPS();
-                cout << endl << endl;
+                cout << endl;
             }
             break;
         case 5:
@@ -206,7 +206,7 @@ int main()
                 y.xuatPS();
                 cout << " = ";
                 x.truPS(y).xuatPS();
-                cout << endl << endl;
+                cout << endl;
             }
             break;
         case 6:
@@ -220,7 +220,7 @@ int main()
                 y.xuatPS();
                 cout << " = ";
                 x.nhanPS(y).xuatPS();
-                cout << endl << endl;
+                cout << endl;
             }
             break;
         case 7:
@@ -234,12 +234,13 @@ int main()
                 y.xuatPS();
                 cout << " = ";
                 x.chiaPS(y).xuatPS();
-                cout << endl << endl;
+                cout << endl;
             }
             break;
         default:
             break;
         }
+        cout << endl;
         //Tiếp tục thực hiện các chức năng
         cout << "Bạn có muốn tiếp tục? ( y / n )\n";
         cin >> resume;

@@ -6,6 +6,7 @@
         "string": "cpp",
         "random": "cpp",
         "ostream": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "xutility": "cpp"
     }
 }
