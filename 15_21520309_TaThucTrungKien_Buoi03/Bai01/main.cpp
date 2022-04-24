@@ -1,4 +1,4 @@
-#include "Bai01.cpp"
+#include "header.cpp"
 int main()
 {
     int n, imported = 0;
