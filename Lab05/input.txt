@@ -1,0 +1,16 @@
+3
+
+1 
+100
+KienTa
+5
+
+2
+101
+KhanhNguyen
+10
+
+2
+102
+TriLe
+8
